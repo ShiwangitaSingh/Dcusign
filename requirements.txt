@@ -1,0 +1,10 @@
+# Flask==3.0.3
+# python-dotenv==1.0.1
+# docusign-esign==3.30.0
+# Werkzeug==3.0.3
+
+Flask
+python-dotenv
+docusign-esign
+Werkzeug
+requests
