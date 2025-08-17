@@ -44,14 +44,6 @@ GET https://demo.docusign.net/restapi/v2.1/accounts/{accountId}/envelopes/{envel
 
 ---
 
-## 6) Demo Script (what to show your manager)
-
-1. Open the app → fill **Recipient Name/Email**, pick a **PDF**.
-2. Adjust `x`, `y`, and `page` if needed → **Send & Open Signing**.
-3. Complete the DocuSign ceremony inline.
-4. Copy the **Envelope ID** from the server logs (printed by the SDK; you can add print statements if desired) and hit **Download Signed PDF**.
-
----
 
 ## 7) Production Next Steps (to impress)
 
@@ -63,4 +55,5 @@ GET https://demo.docusign.net/restapi/v2.1/accounts/{accountId}/envelopes/{envel
 * Add a **status page** listing envelopes and statuses.
 
 ---
+
 
